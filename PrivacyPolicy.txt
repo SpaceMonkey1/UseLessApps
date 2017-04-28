@@ -1,0 +1,5 @@
+Privacy Policy
+
+This app reads your device location to determine the distance to the rail stations. Your position is neither stored locally nor send via Internet to anyone.
+
+You can clear your list of stations on the 'Manage Alarms' page, or by right-click (or tap-hold) a station and selecting 'Delete'.
